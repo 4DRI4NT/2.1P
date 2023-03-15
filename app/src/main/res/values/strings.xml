@@ -1,0 +1,31 @@
+<resources>
+    <string name="Unit_Converter">2.1P</string>
+
+    <string name="emptyField">Field cannot be empty</string>
+    <string name="identicalUnits">Units are identical</string>
+    <string name="invalidConversion">Invalid conversion</string>
+    <string name="invalidOption">Invalid option</string>
+    <string name="incompatibleUnits">Incompatible Units</string>
+    <string name="unintendedUnit">Unintended unit selected</string>
+
+    <string name="convert">Convert</string>
+    <string name="result">Result</string>
+    <string name="enterValue">Enter value</string>
+
+    <string-array name="spinnerArray">
+        <item>"Centimeters"</item>
+        <item>"Kilometers"</item>
+        <item>"Inches"</item>
+        <item>"Feet"</item>
+        <item>"Yards"</item>
+        <item>"Miles"</item>
+        <item>"Grams"</item>
+        <item>"Kilograms"</item>
+        <item>"Pounds"</item>
+        <item>"Ounces"</item>
+        <item>"Tonnes"</item>
+        <item>"Celsius"</item>
+        <item>"Fahrenheit"</item>
+        <item>"Kelvin"</item>
+    </string-array>
+</resources>
